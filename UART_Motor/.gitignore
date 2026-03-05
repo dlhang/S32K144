@@ -1,0 +1,13 @@
+Debug/
+Debug_FLASH/
+Debug_RAM/
+Release/
+
+*.o
+*.d
+*.elf
+*.map
+*.bin
+
+.settings/
+.vscode/
