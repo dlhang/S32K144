@@ -1,0 +1,17 @@
+# Build folders
+Debug/
+Debug_RAM/
+Release/
+Binaries/
+
+# S32 Design Studio / Eclipse
+.settings/
+Debug_Configurations/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
