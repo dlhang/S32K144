@@ -17,8 +17,8 @@ This project demonstrates UART communication to control a motor using the NXP S3
 UART_Motor/
 ├── src
 ├── board
-├── Generated_Code
-└── Project_Settings
+├── Doxygen
+└── README.md
 ```
 ## Build
 
