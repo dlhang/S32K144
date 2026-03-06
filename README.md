@@ -32,19 +32,22 @@ Features:
 - Basic motor start/stop control
 - Embedded control logic implementation
 
+### DHT11
+
+Example project demonstrating **temperature and humidity measurement using the DHT11 sensor**.
+
+Features:
+- Bit-banged DHT11 communication
+- Temperature and humidity reading
+- UART debug output
 ---
 
 ## Repository Structure
 
 ```
 S32K144
-│
 ├── UART_Motor
-│   ├── src
-│   ├── board
-│   ├── Generated_Code
-│   └── Project_Settings
-│
+├── DHT11
 └── README.md
 ```
 
