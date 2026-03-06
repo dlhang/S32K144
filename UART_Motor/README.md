@@ -13,13 +13,13 @@ This project demonstrates UART communication to control a motor using the NXP S3
 - Stop control
 
 ## Project Structure
-
+```
 UART_Motor/
 ├── src
 ├── board
 ├── Generated_Code
 └── Project_Settings
-
+```
 ## Build
 
 Open the project with **S32 Design Studio** and build normally.
